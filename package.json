@@ -1,0 +1,22 @@
+{
+  "name": "polydent",
+  "version": "1.0.0",
+  "description": "Polydent wants to work in a fashion similar to Polygen, but writing the generative grammar directly in Typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "Polydent",
+    "Polygen",
+    "Generative",
+    "Grammar"
+  ],
+  "author": "Michele Montagner <2039317+minkiele@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "typescript": "^4.1.2"
+  }
+}
